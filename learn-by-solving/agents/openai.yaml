@@ -1,0 +1,4 @@
+interface:
+  display_name: "边做边学"
+  short_description: "先梳理必要知识，再解决真实问题，并用权威依据、诊断和项目复盘检验理解"
+  default_prompt: "请使用 $learn-by-solving：先列出解决本题需要的知识清单，再给有依据的解答；按需诊断我的基础，项目结束后通过提问和复盘帮助我掌握方法。"
